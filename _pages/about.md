@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "This project is about the open-source repository to provides a robust arsenal of computational tools for Business analyst"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+In the dynamic realm of business, data-driven decision-making is the cornerstone of success. Business analysts play a pivotal role in extracting valuable insights from complex data, empowering businesses to navigate challenges and seize opportunities. This open-source repository provides a comprehensive suite of computational tools designed specifically for business analysts, empowering them to make informed, data-driven decisions with confidence.
+
+Harnessing the power of numerical analysis, game theory, and probability, this toolkit equips business analysts with the analytical firepower to tackle a wide range of business challenges. From optimizing business strategies to assessing risks and uncovering hidden patterns in data, this toolkit empowers business analysts to elevate their decision-making capabilities to new heights.
+
+Whether you're a seasoned business analyst seeking to expand your repertoire of tools or a budding analyst eager to make a mark, this toolkit provides the essential computational resources to navigate the complexities of modern business.
 
 A data-driven personal website
 ======
